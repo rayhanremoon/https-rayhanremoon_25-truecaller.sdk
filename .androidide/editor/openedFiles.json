@@ -1,0 +1,80 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/src/main/java/com/example/myapplication9/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 55,
+          "index": 941,
+          "line": 23
+        },
+        "start": {
+          "column": 55,
+          "index": 941,
+          "line": 23
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 65,
+          "index": 1034,
+          "line": 47
+        },
+        "start": {
+          "column": 65,
+          "index": 1034,
+          "line": 47
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 459,
+          "line": 13
+        },
+        "start": {
+          "column": 0,
+          "index": 459,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 899,
+          "line": 22
+        },
+        "start": {
+          "column": 0,
+          "index": 899,
+          "line": 22
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/My Application9/app/src/main/java/com/example/myapplication9/MainActivity.java"
+}
